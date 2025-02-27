@@ -28,7 +28,20 @@ Repositório do projeto de Consumo de Websercices usando .NET MAUI
 - 53:53 Implementando a interface gráfica
 - 55:46 Chamando a DataService para consumir o WebService
 
-
+- ### VIDEOAULA 2: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEBSERVICES - PARTE II (58mim):
+- 00:00 Introdução
+- 02:22 Obtendo a localização do dispositivo
+- 06:26 Diferenciando os tipos de exceções
+- 10:56 Implementando a localização com Geolocation
+- 17:00 Mostrando as informações de Geolocation
+- 21:00 Ajustando as permissões de localização do Windows
+- 22:47 Obtendo as informações de localização
+- 24:00 Obtendo o nome da localização do dispositivo 
+- 26:38 Obtendo o Placemark
+- 33:20 Sobre o Token de Mapas no Windows
+- 35:20 Definindo o Token do BingMaps no Windows
+- 38:00 Adicionando o mapa climático da Windy
+- 43:00 Definindo uma WebView para mostrar do mapa
 
 ## CURTIU MEU TRABALHO?
 Você pode me ajudar com um pix para tiago@tiago.blog.br 🍻
