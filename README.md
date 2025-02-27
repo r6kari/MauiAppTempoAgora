@@ -28,7 +28,7 @@ Repositório do projeto de Consumo de Web Services usando .NET MAUI
 - 53:53 Implementando a interface gráfica
 - 55:46 Chamando a DataService para consumir o WebService
 
-- ### VIDEOAULA 2: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEB SERVICES - PARTE II (58mim):
+### VIDEOAULA 2: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEB SERVICES - PARTE II (58mim):
 - 00:00 Introdução
 - 02:22 Obtendo a localização do dispositivo
 - 06:26 Diferenciando os tipos de exceções
