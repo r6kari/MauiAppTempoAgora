@@ -1,10 +1,10 @@
-Repositório do projeto de Consumo de Websercices usando .NET MAUI
+Repositório do projeto de Consumo de Web Services usando .NET MAUI
 
 ## Playlist com todas as videoaulas de construção desse projeto
 - https://www.youtube.com/watch?v=ExstAh2vqjk&list=PLHVpcBDJr5dkC1RVRMbVsgpZgtfOxMtf-
 
 ## Conteúdo das Videoaulas
-### VIDEOAULA 1: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEBSERVICES - PARTE I (1h04mim):
+### VIDEOAULA 1: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEB SERVICES - PARTE I (1h04mim):
 - 00:00 Introdução
 - 01:11 Criação do novo projeto
 - 04:20 Adicionando o projeto ao GitHub
@@ -28,7 +28,7 @@ Repositório do projeto de Consumo de Websercices usando .NET MAUI
 - 53:53 Implementando a interface gráfica
 - 55:46 Chamando a DataService para consumir o WebService
 
-- ### VIDEOAULA 2: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEBSERVICES - PARTE II (58mim):
+- ### VIDEOAULA 2: CRIANDO APLICATIVOS COM .NET MAUI - CONSUMINDO WEB SERVICES - PARTE II (58mim):
 - 00:00 Introdução
 - 02:22 Obtendo a localização do dispositivo
 - 06:26 Diferenciando os tipos de exceções
