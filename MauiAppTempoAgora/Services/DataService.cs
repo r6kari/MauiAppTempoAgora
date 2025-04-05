@@ -40,9 +40,9 @@ namespace MauiAppTempoAgora.Services
                         visibility = (int)rascunho["visibility"],
                         sunrise = sunrise.ToString(),
                         sunset = sunset.ToString(),
-                    }; // Fecha obj do Tempo.
-                } // Fecha if se o status do servidor foi de sucesso
-            } // fecha laço using
+                    }; 
+                } 
+            } 
 
             return t;
         }
